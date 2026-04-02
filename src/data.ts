@@ -5,7 +5,7 @@ export const products: Product[] = [
     id: '1',
     name: 'MacBook Pro M3',
     description: 'The most advanced chips ever built for a personal computer.',
-    price: 165917,
+    price: 180900,
     category: 'Laptops',
     image: 'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=1000&auto=format&fit=crop',
     rating: 4.9,
