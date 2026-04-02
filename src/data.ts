@@ -16,7 +16,7 @@ export const products: Product[] = [
     id: '2',
     name: 'iPhone 15 Pro',
     description: 'Titanium. So strong. So light. So Pro.',
-    price: 82917,
+    price: 98000,
     category: 'Phones',
     image: 'https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?q=80&w=1000&auto=format&fit=crop',
     rating: 4.8,
